@@ -1,5 +1,5 @@
 # SODI | 하루를 정리하고, 나만의 음악으로 완성하는
-> 오늘의 감정과 순간들을 음악으로 기록해보세요. SODI가 함께합니다.
+> 나를 이해하고 성장하는 여정, 그 시작과 만족 SODI와 함께해요.
 
 <img src="https://github.com/user-attachments/assets/07813c61-0fce-4e93-9f4d-1911bb0b6296" width="400px" alt="#">
 <img src="https://github.com/user-attachments/assets/ffc3c551-876e-4c15-96fa-bdd9dcd5176b" width="400px" alt="#">
@@ -46,8 +46,4 @@
 > 일기를 바탕으로 주요 단어를 추출합니다. 오늘 하루를 노래 한 곡에 담아보세요. 자신만의 월별 플레이리스트를 제작해 드립니다.
 
 <img src="https://github.com/user-attachments/assets/b867c61d-612f-4d5e-a194-27e16e041780" width="270px" alt="#">
-<img src="https://github.com/user-attachments/assets/52426154-edc2-4cad-bff0-d4efeb6ec75f" width="270px" alt="#">
-
-<br>
-
-## 하루의 끝에서 만나는 나만의 음악, 지금 SODI에서 시작해보세요!
+<img src="https://github.com/user-attachments/assets/52426154-edc2-4cad-bff0-d4efeb6ec75f" width="270px " alt="#">
