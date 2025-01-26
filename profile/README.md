@@ -25,9 +25,9 @@
 #### 1. HEXACO 유형 검사
 > HEXACO 유형을 기반으로 제작한 유형 간이 검사를 진행합니다.
 
-<img src="https://github.com/user-attachments/assets/475b3ef8-6632-4a33-93d8-2364e4df3144" width="300px" alt="#">
-<img src="https://github.com/user-attachments/assets/5cdbd9c8-3bb1-4a36-aff3-08f37465f91a" width="300px" alt="#">
-<img src="https://github.com/user-attachments/assets/f40adedf-4502-4d24-af0d-c5a62a01bf24" width="300px" alt="#">
+<img src="https://github.com/user-attachments/assets/475b3ef8-6632-4a33-93d8-2364e4df3144" width="270px" alt="#">
+<img src="https://github.com/user-attachments/assets/5cdbd9c8-3bb1-4a36-aff3-08f37465f91a" width="270px" alt="#">
+<img src="https://github.com/user-attachments/assets/f40adedf-4502-4d24-af0d-c5a62a01bf24" width="270px" alt="#">
 
 #### 2. 일일 퀘스트
 > 소소한 퀘스트를 통해 성취감을 느껴보세요. 반대되는 성향과 관련된 도전 과제를 통해 새로운 경험을 해보세요.
