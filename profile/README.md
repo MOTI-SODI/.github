@@ -1,8 +1,8 @@
 # SODI | 하루를 정리하고, 나만의 음악으로 완성하는
 > 나를 이해하고 성장하는 여정, 그 시작과 만족 SODI와 함께해요.
 
-<img src="https://github.com/user-attachments/assets/07813c61-0fce-4e93-9f4d-1911bb0b6296" width="400px" alt="#">
-<img src="https://github.com/user-attachments/assets/ffc3c551-876e-4c15-96fa-bdd9dcd5176b" width="400px" alt="#">
+<img src="https://github.com/user-attachments/assets/8c6cc2b3-10f6-4ca8-bf15-b6ff76232f51" width="400px" alt="#">
+<img src="https://github.com/user-attachments/assets/db6e2664-4e7d-4864-900d-134224c0a597" width="400px" alt="#">
 
 
 ## 프로젝트 소개
