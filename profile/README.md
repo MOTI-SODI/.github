@@ -1,17 +1,49 @@
-# SODI
-## 하루를 정리하고, 나만의 음악으로 완성하는, SODI
+# SODI | 하루를 정리하고, 나만의 음악으로 완성하는
+> 오늘의 감정과 순간들을 음악으로 기록해보세요. SODI가 함께합니다.
 
-**오늘의 감정과 순간들을 음악으로 기록해보세요. SODI가 함께합니다.**
+<img src="https://github.com/user-attachments/assets/07813c61-0fce-4e93-9f4d-1911bb0b6296" width="500px" alt="#">
+<img src="https://github.com/user-attachments/assets/8acfb8ec-9e0f-476e-b7db-6d4a43504979" width="500px" alt="#">
+
+
+## 프로젝트 소개
+
+### 🗓️ 기간
+
+2024.09 ~ 2025.1
+
+### ⚙️ 기술 스택
+
+#### Front-end
+
+![Front-end](https://go-skill-icons.vercel.app/api/icons?i=react)
+
+#### Back-end
+![Back-end](https://go-skill-icons.vercel.app/api/icons?i=python,flask,mysql)
+
+
+### 📱 주요 기능
+#### 1. HEXACO 유형 검사
+> HEXACO 유형을 기반으로 제작한 유형 간이 검사를 진행합니다.
+
+<img src="https://github.com/user-attachments/assets/475b3ef8-6632-4a33-93d8-2364e4df3144" width="320px" alt="#">
+
+#### 2. 일일 퀘스트
+> 소소한 퀘스트를 통해 성취감을 느껴보세요. 반대되는 성향과 관련된 도전 과제를 통해 새로운 경험을 해보세요.
+
+<img src="a" width="320px" alt="#">
+
+
+#### 3. 일기 작성
+> 리마인드 알람을 드립니다. 하루 동안의 감정 및 생각을 기록해 보세요.
+
+<img src="https://github.com/user-attachments/assets/483088c5-22fb-42fe-9db7-fd7dba8be05a" width="320px" alt="#">
+
+
+#### 4. 1일 1음악
+> 일기를 바탕으로 주요 단어를 추출합니다. 오늘 하루를 노래 한 곡에 담아보세요. 자신만의 월별 플레이리스트를 제작해 드립니다.
+
+<img src="a" width="320px" alt="#">
 
 <br>
 
-## 주요 기능
-
-- **간단한 퀘스트**: 매일 제공되는 간단한 미션으로 다양한 성격과 강점을 이해하고 향상시켜 보세요.
-- **기록하기**: 새로운 도전을 통해 느낀 점과 함께 하루를 돌아보며, 기록해주세요.
-- **맞춤형 음악 추천**: 작성한 기록을 바탕으로 오늘의 기분에 딱 맞는 노래를 추천합니다.
-- **월간 플레이리스트 제공**: 한 달 동안 추천받은 노래를 모아 개인화된 플레이리스트를 완성합니다.
-
-<br>
-
-### 하루의 끝에서 만나는 나만의 음악, 지금 SODI에서 시작해보세요!
+## 하루의 끝에서 만나는 나만의 음악, 지금 SODI에서 시작해보세요!
