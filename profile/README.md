@@ -26,6 +26,7 @@
 > HEXACO 유형을 기반으로 제작한 유형 간이 검사를 진행합니다.
 
 <img src="https://github.com/user-attachments/assets/475b3ef8-6632-4a33-93d8-2364e4df3144" width="320px" alt="#">
+<img src="https://github.com/user-attachments/assets/5cdbd9c8-3bb1-4a36-aff3-08f37465f91a" width="320px" alt="#">
 <img src="https://github.com/user-attachments/assets/f40adedf-4502-4d24-af0d-c5a62a01bf24" width="320px" alt="#">
 
 #### 2. 일일 퀘스트
